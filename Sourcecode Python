@@ -1,3 +1,9 @@
+Microsoft Windows [Version 10.0.17763.379]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\User>python
+Python 3.7.1 (default, Dec 10 2018, 22:09:34) [MSC v.1915 32 bit (Intel)] :: Anaconda, Inc. on win32
+Type "help", "copyright", "credits" or "license" for more information.
 >>> pins = {"Rida":1234,"Nesya":1111,"Morle":2222}
 >>> type(pins["Rida"])
 <class 'int'>
